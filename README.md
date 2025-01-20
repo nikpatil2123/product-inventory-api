@@ -103,5 +103,6 @@ product-inventory-api/
 ## Author
 Nikhil VIjay Patil
 
-GitHub: nikpatil2123
+GitHub: [nikpatil2123](https://github.com/nikpatil2123)
+<br>
 Email: nikhpatil2123@gmail.com
