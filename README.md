@@ -100,3 +100,8 @@ product-inventory-api/
 └── routes/
     └── productRoutes.js
 ```
+## Author
+Nikhil VIjay Patil
+
+GitHub: nikpatil2123
+Email: nikhpatil2123@gmail.com
